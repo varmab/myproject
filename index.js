@@ -3,3 +3,5 @@ console.log(myName);
 
 var age=46;
 console.log(age);
+
+var isStudent=false;
